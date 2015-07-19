@@ -4,6 +4,7 @@ The ionic tabs template organized "by feature" (user,chat,shoppingList) rather t
 ## Setup
 * npm install -g cordova ionic
 * git clone https://github.com/BennuAshes/ionic-feature-template.git newAppName
+* edit ionic.project with your app_id [TODO: how to generate/find here]
 * ionic serve
 
 Done!
