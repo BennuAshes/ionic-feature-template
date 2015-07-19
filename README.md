@@ -1,5 +1,5 @@
 # ionic-feature-template
-The ionic tabs template organized "by feature" (user,chat,shoppingList) rather than by type (controllers,services) and some other Angular style choices  
+The ionic tabs template organized "by feature" (user,chat,shoppingList) rather than by type (controllers,services) and some other Angular style choices mainly influenced by https://github.com/johnpapa/angular-styleguide (does not use hottowel, although I suggest you check it out https://github.com/johnpapa/generator-hottowel )
 
 ## Setup
 * npm install -g ionic
@@ -9,10 +9,11 @@ The ionic tabs template organized "by feature" (user,chat,shoppingList) rather t
 Done!
 
 ## Other
-Ionic View seems neat. A little suspicious it's free, but it seems clean and great  
-Notes: 
+Ionic View seems neat. A little suspicious it's free, but its clean and great so far
+
+#### Notes: 
 * Was tested on an S4 not an S3
-* ionic seems to have issues with controllerAs property on ui-router state, but a workaround is to use the controller: 'Controller as vm' syntax
+* ionic seems to have issues with controllerAs property on ui-router state, but a workaround is to use the controller: 'Controller as vm' syntax, which is what I've done. I think controllerAs is a little more clear though
 
 
 ## TODO
