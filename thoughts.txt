@@ -1,0 +1,3 @@
+capital and singular for factories/services
+-distinguish between an instantiated class and a class declaration - angular factories do this automatically with the $ symbol
+rearranged "by feature"
