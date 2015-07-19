@@ -1,5 +1,5 @@
 # ionic-feature-template
-The ionic tabs template organized "by feature" (user,chat,shoppingList) rather than by type (controllers,services) and some other Angular style choices mainly influenced by https://github.com/johnpapa/angular-styleguide (does not use hottowel, although I suggest you check it out https://github.com/johnpapa/generator-hottowel )
+The ionic tabs template organized "by feature" (user,chat,shoppingList) rather than by type (controllers,services) and some other Angular style choices influenced by https://github.com/johnpapa/angular-styleguide (does not use hottowel, although I suggest you check it out https://github.com/johnpapa/generator-hottowel )
 
 ## Setup
 * npm install -g ionic
