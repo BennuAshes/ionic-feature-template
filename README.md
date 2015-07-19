@@ -10,7 +10,10 @@ Done!
 
 ## Other
 Ionic View seems neat. A little suspicious it's free, but it seems clean and great  
-Note: The commit was tested on an S4 not an S3  
+Notes: 
+* Was tested on an S4 not an S3
+* ionic seems to have issues with controllerAs property on ui-router state, but a workaround is to use the controller: 'Controller as vm' syntax
+
 
 ## TODO
 * gulp w/ babel for ES6 support
